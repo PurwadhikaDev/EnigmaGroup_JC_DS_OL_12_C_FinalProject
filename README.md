@@ -59,7 +59,7 @@ Berbagai teknik analisis data digunakan, termasuk eksplorasi data, segmentasi pe
 
 Dalam analisis dataset Olist, ditemukan bahwa São Paulo merupakan state dengan pembelanjaan online tertinggi, diikuti oleh Rio de Janeiro. Produk yang laris di São Paulo meliputi Bed Bath Table, Health & Beauty, dan lainnya. Harga dan berat produk memiliki dampak positif pada pendapatan, sementara review negatif memiliki dampak sebaliknya. Puncak musim belanja terjadi dari Mei hingga Agustus dengan Black Friday menonjol. Mayoritas pembayaran dilakukan dengan kartu kredit atau Boleto. Waktu pengiriman rata-rata adalah 5-10 hari, dengan yang terlama terjadi di utara Brasil. Analisis RFM mengidentifikasi pelanggan yang berpotensi untuk loyalitas dan churn. Strategi pemasaran termasuk pemberian promo khusus untuk mengurangi churn dan implementasi program loyalitas untuk meningkatkan kesetiaan pelanggan. Diketahui juga bahwa penetapan harga serta jumlah kuantitas produk yang terjual menjadi salah satu faktor penting dalam mengoptimalkan revenue yang didapatkan oleh para Merchant.
 
-**Model Overview:** Setelah melalui Cross Validation dan Hyperparameter Tuning, model Random Forest terpilih sebagai model terbaik untuk memprediksi Revenue Merchant Olist. Model ini memiliki nilai R-Squared sebesar 86.1%, menunjukkan bahwa sekitar 86% variabilitas revenue dapat dijelaskan oleh fitur-fitur yang ada. Median Absolute Error yang rendah (8.4) juga menandakan ketepatan prediksi model.
+**`Model Overview:`** Setelah melalui Cross Validation dan Hyperparameter Tuning, model Random Forest terpilih sebagai model terbaik untuk memprediksi Revenue Merchant Olist. Model ini memiliki nilai R-Squared sebesar 86.1%, menunjukkan bahwa sekitar 86% variabilitas revenue dapat dijelaskan oleh fitur-fitur yang ada. Median Absolute Error yang rendah (8.4) juga menandakan ketepatan prediksi model.
 
 ![image](https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_OL_12_C_FinalProject/assets/109770559/82cb5082-92b4-446f-aa9c-82c23665ff3b)
 
@@ -68,7 +68,7 @@ Dalam analisis dataset Olist, ditemukan bahwa São Paulo merupakan state dengan 
 | R^2 |0.861012|
 | MedAE |8.400692|
 
-**Faktor Pengaruh Revenue:** Harga barang dan kuantitas penjualan menjadi faktor utama yang memengaruhi revenue. Penamaan judul dan deskripsi produk, biaya dan lama pengiriman, serta review score juga berperan penting dalam menentukan jumlah revenue. Faktor-faktor yang dapat mempengaruhi pelanggan untuk memberikan ulasan yang baik:
+**`Faktor Pengaruh Revenue:`** Harga barang dan kuantitas penjualan menjadi faktor utama yang memengaruhi revenue. Penamaan judul dan deskripsi produk, biaya dan lama pengiriman, serta review score juga berperan penting dalam menentukan jumlah revenue. Faktor-faktor yang dapat mempengaruhi pelanggan untuk memberikan ulasan yang baik:
 
 - Fast transactions.
 - Convenient payment methods.
@@ -78,9 +78,9 @@ Dalam analisis dataset Olist, ditemukan bahwa São Paulo merupakan state dengan 
 - Information quality.
 - Delivery quality.
 
-**Catatan untuk Analisis Lanjutan:** Untuk meningkatkan akurasi prediksi, dianjurkan untuk menambahkan data dengan fitur tambahan seperti sub kategori barang dan jenis ekspedisi. Model ML perlu disempurnakan terus-menerus melalui penyetelan hyperparameter dan eksperimen dengan algoritma alternatif.
+**`Catatan untuk Analisis Lanjutan:`** Untuk meningkatkan akurasi prediksi, dianjurkan untuk menambahkan data dengan fitur tambahan seperti sub kategori barang dan jenis ekspedisi. Model ML perlu disempurnakan terus-menerus melalui penyetelan hyperparameter dan eksperimen dengan algoritma alternatif.
 
-**Sebelum & Setelah Implementasi ML:** Sebelum implementasi ML, merchant mengalami kesulitan dalam mengoptimalkan stok barang dan merencanakan keuntungan. Setelah implementasi ML, merchant dapat mengevaluasi data penjualan masa lampau, melakukan simulasi penjualan, dan mengoptimalkan stok barang untuk memaksimalkan revenue.
+**`Sebelum & Setelah Implementasi ML:`** Sebelum implementasi ML, merchant mengalami kesulitan dalam mengoptimalkan stok barang dan merencanakan keuntungan. Setelah implementasi ML, merchant dapat mengevaluasi data penjualan masa lampau, melakukan simulasi penjualan, dan mengoptimalkan stok barang untuk memaksimalkan revenue.
 
 ## Tableau Dashboard 📊
 Kami Juga menyediakan dashboard interaktif menggunakan Tableau untuk memudahkan melihat data secara visual. untuk dapat mengaksesnya dapat membuka link dibawah ini:
