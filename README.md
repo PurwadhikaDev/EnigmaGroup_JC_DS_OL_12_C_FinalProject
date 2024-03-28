@@ -22,7 +22,7 @@ Jumlah order dan pendapatan mengalami peningkatan dari tahun 2017 ke 2018, namun
 1. **Meneliti Perilaku Konsumen**: Memahami bagaimana konsumen berinteraksi dengan platform, produk, dan layanan Olist.
 2. **Penerapan Machine Learning (ML)**: Pembangunan model ML untuk memprediksi pendapatan merchant berdasarkan data historis dan variabel-variabel lainnya.
 3. **Peningkatan Revenue Merchant**: Rekomendasi yang actionable berdasarkan hasil analisis data untuk meningkatkan kinerja dan pendapatan mereka.
-4. **Menaikkan Traffic Olist**: Mengembangkan strategi untuk meningkatkan jumlah pengunjung dan aktivitas pengguna di platform Olist.
+4. **Menaikkan Traffic Olist**: Mengembangkan strategi untuk meningkatkan aktivitas pengguna di platform Olist.
 
 ## Business Questions 💬❓
 - Bagaimana perilaku pembelian dari customer (Preferensi Produk, Waktu Pembelian, Jumlah Transaksi, Rata - Rata Pengeluaran, dll)?
