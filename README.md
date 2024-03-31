@@ -91,8 +91,8 @@ Kami Juga menyediakan dashboard interaktif menggunakan Tableau untuk memudahkan 
 
 - https://www.statista.com/forecasts/289746/e-commerce-revenue-forecast-in-brazil
 - https://www.linkedin.com/advice/1/how-do-you-use-customer-behavior-increase#:~:text=Customer%20behavior%20is%20a%20key%20factor%20in,strategies%20to%20increase%20your%20revenue%20and%20profitability.
-- https://www.kimkim.com/c/brazil-in-august-travel-tips-weather-and-more
-- https://www.brazileducation.info/education-system/academic-year-and-language-of-instruction-in-brazil.html
+- https://tumbaproductions.com.br/site/eng-index/#setembro-negro
+- https://en.wikipedia.org/wiki/Independence_Day_(Brazil)#:~:text=The%20Independence%20Day%20of%20Brazil,Algarves%20on%207%20September%201822
 - https://documentation.bloomreach.com/engagement/docs/rfm-segmentation
 - https://www.sciencedirect.com/science/article/pii/S1877050910004229
 - https://ejournals.ph/article.php?id=16559#:~:text=Five%20factors%20contributed%20to%20this,distributing%20questionnaires%20to%20393%20respondents.
